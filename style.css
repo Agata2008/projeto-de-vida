@@ -3,7 +3,7 @@
 :root {
     --cor-de-fundo: #76ef9a;
     --verde: #598851;
-    --branco: #FFFFFF;
+    --branco: #000000;
     --botao-ativo: #2ee34c;
     --botao-inativo: rgba(4, 190, 38, 0.5);
     --texto-fundo: rgba(15, 131, 24, 0.3);
@@ -14,7 +14,7 @@
 }
 
 header {
-    background-color: #ffffff;
+    background-color: #3d60e9;
 }
 
 body {
